@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "commander": "^12.1.0",
-    "jimp": "^0.22.12"
+    "jimp": "^1.6.0"
   }
 }
